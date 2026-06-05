@@ -1,0 +1,104 @@
+Sujal Singh
+
++91 73078 20324
+sujalsingh302005@gmail.com
+
+LinkedIn:
+linkedin.com/in/sujal-singh-079535342
+
+GitHub:
+github.com/sujalsingh302005
+
+SUMMARY
+
+Motivated and detail-oriented Computer Science student specializing in Artificial Intelligence and Machine Learning with strong knowledge of Python, Java, and core programming concepts.
+
+Passionate about machine learning, AI technologies, and software development with a keen interest in solving real-world problems through technology.
+
+Skilled in communication, adaptability, teamwork, and analytical thinking with the ability to quickly learn and implement new technologies in practical environments.
+
+SKILLS
+
+Programming Languages:
+- Python
+- Java
+
+Core Concepts:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Machine Learning
+- Artificial Intelligence
+- Database Management Systems
+
+Technical Skills:
+- Problem Solving
+- Logical Thinking
+- Debugging
+- AI Model Understanding
+- Basic Data Analytics
+
+Soft Skills:
+- Adaptive
+- Quick Learner
+- Good Communication
+- Team Collaboration
+- Precision in Work
+
+PROJECTS
+
+Grooming Oracle (Ongoing)
+- Developing an AI-powered grooming assistant with real-time facial analysis for personalized styling.
+
+DIT University Student Chatbot
+- Developed an AI chatbot using Python to provide university-related information.
+
+AI Mock Interviewer
+- Built an AI-based interview platform with dynamic questioning and automated feedback.
+
+CERTIFICATIONS
+
+- Letter of Recommendation — Prodigy InfoTech (May 2026)
+- Machine Learning Internship Certificate — Prodigy InfoTech (Apr 2026 – May 2026)
+- Artificial Intelligence Internship — Pinnacle Labs Pvt. Ltd. (Mar 2026 – Apr 2026)
+- GenAI Powered Data Analytics Job Simulation — Forage (Oct 2025)
+- Software Engineering Job Simulation — JPMorgan Chase & Co. (Forage, Oct 2025)
+- Data Analytics Job Simulation — Deloitte (Forage, Oct 2025)
+- Linux Fundamentals — LearnQuest (Coursera, Mar 2025)
+- Database Management Essentials — University of Colorado (Coursera, Mar 2025)
+- Java Assessment — LearnTube by CareerNinja (Dec 2024)
+
+EXPERIENCE
+
+Prodigy InfoTech
+Machine Learning Intern
+Apr 15, 2026 – May 15, 2026
+
+Worked on real-world machine learning projects and gained hands-on experience in:
+- Model development
+- Data preprocessing
+- AI workflows
+
+Pinnacle Labs Pvt. Ltd.
+Artificial Intelligence Intern
+Mar 2026 – Apr 2026
+
+Worked on AI systems and contributed to:
+- Development workflows
+- Testing
+
+POSITIONS OF RESPONSIBILITY
+
+- Member — Koshish Family
+- Content Writer — Editorial Board, DIT
+
+EDUCATION
+
+DIT University, Dehradun
+2023 – Present
+
+B.Tech in Computer Science Engineering
+
+The Millennium School, Lucknow
+2020 – 2022
+
+Schooling
